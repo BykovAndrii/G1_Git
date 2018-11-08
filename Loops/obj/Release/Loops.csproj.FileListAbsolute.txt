@@ -1,0 +1,5 @@
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Loops\bin\Release\Loops.exe.config
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Loops\bin\Release\Loops.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Loops\bin\Release\Loops.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Loops\obj\Release\Loops.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Loops\obj\Release\Loops.pdb
