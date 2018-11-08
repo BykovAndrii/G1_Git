@@ -1,0 +1,5 @@
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Constructors\bin\Release\Constructors.exe.config
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Constructors\bin\Release\Constructors.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Constructors\bin\Release\Constructors.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Constructors\obj\Release\Constructors.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Constructors\obj\Release\Constructors.pdb

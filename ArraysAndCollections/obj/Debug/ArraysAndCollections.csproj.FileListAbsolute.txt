@@ -1,0 +1,12 @@
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe.config
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\ArraysAndCollections\bin\Debug\ArraysAndCollections.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\ArraysAndCollections\obj\Debug\ArraysAndCollections.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\ArraysAndCollections\obj\Debug\ArraysAndCollections.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\ArraysAndCollections\obj\Debug\ArraysAndCollections.csprojResolveAssemblyReference.cache
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe.config
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\ArraysAndCollections\bin\Debug\ArraysAndCollections.pdb
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\ArraysAndCollections\obj\Debug\ArraysAndCollections.csproj.CoreCompileInputs.cache
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\ArraysAndCollections\obj\Debug\ArraysAndCollections.exe
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\ArraysAndCollections\obj\Debug\ArraysAndCollections.pdb
