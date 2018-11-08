@@ -1,0 +1,13 @@
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\HW\bin\Debug\HW.exe.config
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\HW\bin\Debug\HW.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\HW\bin\Debug\HW.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\HW\obj\Debug\HW.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\HW\obj\Debug\HW.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\HW\obj\Debug\HW.csprojResolveAssemblyReference.cache
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\HW\bin\Debug\HW.exe.config
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\HW\bin\Debug\HW.exe
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\HW\bin\Debug\HW.pdb
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\HW\obj\Debug\HW.csprojAssemblyReference.cache
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\HW\obj\Debug\HW.exe
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\HW\obj\Debug\HW.pdb

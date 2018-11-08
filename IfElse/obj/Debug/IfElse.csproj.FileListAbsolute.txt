@@ -1,0 +1,13 @@
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\IfElse\bin\Debug\IfElse.exe.config
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\IfElse\bin\Debug\IfElse.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\IfElse\bin\Debug\IfElse.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\IfElse\obj\Debug\IfElse.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\IfElse\obj\Debug\IfElse.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\IfElse\obj\Debug\IfElse.csprojResolveAssemblyReference.cache
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\IfElse\bin\Debug\IfElse.exe.config
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\IfElse\bin\Debug\IfElse.exe
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\IfElse\bin\Debug\IfElse.pdb
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\IfElse\obj\Debug\IfElse.csprojAssemblyReference.cache
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\IfElse\obj\Debug\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\IfElse\obj\Debug\IfElse.exe
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\IfElse\obj\Debug\IfElse.pdb
