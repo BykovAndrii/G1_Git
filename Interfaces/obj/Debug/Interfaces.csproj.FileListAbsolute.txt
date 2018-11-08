@@ -1,0 +1,7 @@
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Interfaces\obj\Debug\Interfaces.pdb

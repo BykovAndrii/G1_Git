@@ -1,0 +1,5 @@
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\IfElse\bin\Release\IfElse.exe.config
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\IfElse\bin\Release\IfElse.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\IfElse\bin\Release\IfElse.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\IfElse\obj\Release\IfElse.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\IfElse\obj\Release\IfElse.pdb

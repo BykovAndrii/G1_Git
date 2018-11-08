@@ -1,0 +1,8 @@
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\bin\Release\UnitTestProject1.dll
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\bin\Release\UnitTestProject1.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\obj\Release\UnitTestProject1.dll
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\obj\Release\UnitTestProject1.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\bin\Release\nunit.framework.dll
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\bin\Release\nunit.framework.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\bin\Release\nunit.framework.xml

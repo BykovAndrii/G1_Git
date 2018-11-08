@@ -1,0 +1,13 @@
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Constructors\bin\Debug\Constructors.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Constructors\bin\Debug\Constructors.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Constructors\obj\Debug\Constructors.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Constructors\obj\Debug\Constructors.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Constructors\obj\Debug\Constructors.csprojResolveAssemblyReference.cache
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Constructors\bin\Debug\Constructors.exe
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Constructors\bin\Debug\Constructors.pdb
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Constructors\obj\Debug\Constructors.csprojAssemblyReference.cache
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Constructors\obj\Debug\Constructors.exe
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Constructors\obj\Debug\Constructors.pdb

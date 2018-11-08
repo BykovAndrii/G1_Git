@@ -1,0 +1,5 @@
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\HW\bin\Release\HW.exe.config
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\HW\bin\Release\HW.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\HW\bin\Release\HW.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\HW\obj\Release\HW.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\HW\obj\Release\HW.pdb

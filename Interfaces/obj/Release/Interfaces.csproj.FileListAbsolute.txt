@@ -1,0 +1,5 @@
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Interfaces\bin\Release\Interfaces.exe.config
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Interfaces\bin\Release\Interfaces.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Interfaces\bin\Release\Interfaces.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Interfaces\obj\Release\Interfaces.exe
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\Interfaces\obj\Release\Interfaces.pdb

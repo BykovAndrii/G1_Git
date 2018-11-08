@@ -1,0 +1,19 @@
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\bin\Debug\nunit.framework.pdb
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\UnitTestProject1\bin\Debug\nunit.framework.pdb
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\UnitTestProject1\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\UnitTestProject1\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\UnitTestProject1\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
