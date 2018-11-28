@@ -66,7 +66,7 @@ namespace TestingGit
 
                 while (reader.Read())
                 {
-                    resultSet.Add((int)reader["idNumber"]);
+                    resultSet.Add(Convert.ToInt32(reader["idNumber"]));
                 }
 
                 foreach (var id in resultSet)
@@ -74,7 +74,7 @@ namespace TestingGit
                     Console.WriteLine(id);
                 }
 
-                //close Connection
+                // Сlose Connection
                 CloseConnection();
             }
             else
