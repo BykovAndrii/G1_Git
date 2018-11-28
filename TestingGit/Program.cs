@@ -9,7 +9,7 @@ namespace TestingGit
         {
             Console.WriteLine("Hello!!!");
 
-            List<string> list = new List<string> { "1", "2", "3", };
+            //List<string> list = new List<string> { "1", "2", "3", };
 
             //Console.WriteLine(list.Count);
 
@@ -25,15 +25,20 @@ namespace TestingGit
             //    Console.WriteLine(str);
             //}
 
-            Test testClass = new Test();
+            //Test testClass = new Test();
             //testClass.listInClass = list;
 
-            testClass.listInClass.Add("test");
+            //testClass.listInClass.Add("test");
 
-            foreach (var item in testClass.listInClass)
-            {
-                Console.WriteLine(item);
-            }
+            //foreach (var item in testClass.listInClass)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            DbConnect dbConnect = new DbConnect();
+
+            dbConnect.SelectList();
+            //dbConnect.Count();
 
             Console.ReadKey();
         }
