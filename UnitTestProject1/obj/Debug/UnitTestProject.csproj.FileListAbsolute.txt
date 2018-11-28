@@ -17,3 +17,17 @@ C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\UnitTestProject1\obj\De
 C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\UnitTestProject1\obj\Debug\UnitTestProject.csproj.CopyComplete
 C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\G1\G1_Git\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\G1\G1_Git\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\G1\G1_Git\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\G1\G1_Git\UnitTestProject1\bin\Debug\nunit.framework.dll
+D:\G1\G1_Git\UnitTestProject1\bin\Debug\nunit.framework.pdb
+D:\G1\G1_Git\UnitTestProject1\bin\Debug\nunit.framework.xml
+D:\G1\G1_Git\UnitTestProject1\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+D:\G1\G1_Git\UnitTestProject1\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\G1\G1_Git\UnitTestProject1\obj\Debug\UnitTestProject.csproj.CopyComplete
+D:\G1\G1_Git\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\G1\G1_Git\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\G1\G1_Git\UnitTestProject1\bin\Debug\SeleniumExtras.PageObjects.dll
+D:\G1\G1_Git\UnitTestProject1\bin\Debug\WebDriver.dll
+D:\G1\G1_Git\UnitTestProject1\bin\Debug\WebDriver.xml

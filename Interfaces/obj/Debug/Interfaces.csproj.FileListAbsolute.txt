@@ -5,3 +5,9 @@ C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Interfaces\bin\Debug\In
 C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
 C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Interfaces\obj\Debug\Interfaces.exe
 C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Interfaces\obj\Debug\Interfaces.pdb
+D:\G1\G1_Git\Interfaces\bin\Debug\Interfaces.exe.config
+D:\G1\G1_Git\Interfaces\bin\Debug\Interfaces.exe
+D:\G1\G1_Git\Interfaces\bin\Debug\Interfaces.pdb
+D:\G1\G1_Git\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\G1\G1_Git\Interfaces\obj\Debug\Interfaces.exe
+D:\G1\G1_Git\Interfaces\obj\Debug\Interfaces.pdb
