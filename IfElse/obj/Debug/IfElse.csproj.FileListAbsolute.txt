@@ -11,3 +11,9 @@ C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\IfElse\obj\Debug\IfElse
 C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\IfElse\obj\Debug\IfElse.csproj.CoreCompileInputs.cache
 C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\IfElse\obj\Debug\IfElse.exe
 C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\IfElse\obj\Debug\IfElse.pdb
+D:\G1\G1_Git\IfElse\bin\Debug\IfElse.exe.config
+D:\G1\G1_Git\IfElse\bin\Debug\IfElse.exe
+D:\G1\G1_Git\IfElse\bin\Debug\IfElse.pdb
+D:\G1\G1_Git\IfElse\obj\Debug\IfElse.csproj.CoreCompileInputs.cache
+D:\G1\G1_Git\IfElse\obj\Debug\IfElse.exe
+D:\G1\G1_Git\IfElse\obj\Debug\IfElse.pdb

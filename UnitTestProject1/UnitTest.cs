@@ -1,4 +1,5 @@
 ﻿using NUnit.Framework;
+using System;
 
 namespace UnitTestProject
 {
@@ -55,12 +56,22 @@ namespace UnitTestProject
         public void Test1()
         {
             System.Console.WriteLine("Test 1");
+            int a = 5;
+            int b = 0;
+            // TestDelegate testDelegate = new TestDelegate(Divide(a, b));
+
+            Assert.Throws<DivideByZeroException>(() => Divide(a, b));
         }
 
         [Test]
         public void Test2()
         {
             System.Console.WriteLine("Test 2");
+        }
+
+        public void Divide(int a, int b)
+        {
+            var result = a / b;
         }
     }
 }

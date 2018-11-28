@@ -14,10 +14,11 @@ namespace HW
 
         public static void Main(string[] args)
         {
-            //int monthNumber = 3;
-            //ShowSeason(monthNumber);
-            //Animal.MakeSound("Gav");
-
+            var xml = XmlHelper.CreateXml(@"Data\XmlTestFile.xml");
+            var node = XmlHelper.GetNodeByTagName("Node1", xml);
+            var nodeText = XmlHelper.GetNodeText("Node2");
+            Console.WriteLine(nodeText);
+              
             Console.ReadKey();
         }
     }

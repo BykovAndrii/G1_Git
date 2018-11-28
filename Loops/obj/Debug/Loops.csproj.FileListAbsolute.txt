@@ -9,3 +9,9 @@ C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Loops\bin\Debug\Loops.p
 C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
 C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Loops\obj\Debug\Loops.exe
 C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Loops\obj\Debug\Loops.pdb
+D:\G1\G1_Git\Loops\bin\Debug\Loops.exe.config
+D:\G1\G1_Git\Loops\bin\Debug\Loops.exe
+D:\G1\G1_Git\Loops\bin\Debug\Loops.pdb
+D:\G1\G1_Git\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+D:\G1\G1_Git\Loops\obj\Debug\Loops.exe
+D:\G1\G1_Git\Loops\obj\Debug\Loops.pdb

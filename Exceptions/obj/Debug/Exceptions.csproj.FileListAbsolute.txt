@@ -10,3 +10,9 @@ C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Exceptions\bin\Debug\Ex
 C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
 C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Exceptions\obj\Debug\Exceptions.exe
 C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Exceptions\obj\Debug\Exceptions.pdb
+D:\G1\G1_Git\Exceptions\bin\Debug\Exceptions.exe.config
+D:\G1\G1_Git\Exceptions\bin\Debug\Exceptions.exe
+D:\G1\G1_Git\Exceptions\bin\Debug\Exceptions.pdb
+D:\G1\G1_Git\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+D:\G1\G1_Git\Exceptions\obj\Debug\Exceptions.exe
+D:\G1\G1_Git\Exceptions\obj\Debug\Exceptions.pdb
