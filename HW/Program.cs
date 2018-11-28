@@ -17,7 +17,8 @@ namespace HW
             var xml = XmlHelper.CreateXml(@"Data\XmlTestFile.xml");
             var node = XmlHelper.GetNodeByTagName("Node1", xml);
             var nodeText = XmlHelper.GetNodeText("Node2");
-
+            Console.WriteLine(nodeText);
+              
             Console.ReadKey();
         }
     }

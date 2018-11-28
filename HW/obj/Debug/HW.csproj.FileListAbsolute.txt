@@ -18,3 +18,4 @@ D:\G1\G1_Git\HW\obj\Debug\HW.csprojAssemblyReference.cache
 D:\G1\G1_Git\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
 D:\G1\G1_Git\HW\obj\Debug\HW.exe
 D:\G1\G1_Git\HW\obj\Debug\HW.pdb
+D:\G1\G1_Git\HW\bin\Debug\Data\XmlTestFile.xml

@@ -10,7 +10,7 @@ namespace HW
         public static XmlDocument CreateXml(string filePath)
         {
             var pathToFileDir = Assembly.GetExecutingAssembly().CodeBase.Replace("file:///", string.Empty);
-            var pathToFile = Path.Combine(Environment.CurrentDirectory, filePath);
+            var pathToFile = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, filePath);
             var xmlDoc = new XmlDocument();
             xmlDoc.Load(pathToFile);
             return xmlDoc;
