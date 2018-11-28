@@ -14,7 +14,6 @@ C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\FirstProject\obj\Debug\
 D:\G1\G1_Git\FirstProject\bin\Debug\FirstProject.exe.config
 D:\G1\G1_Git\FirstProject\bin\Debug\FirstProject.exe
 D:\G1\G1_Git\FirstProject\bin\Debug\FirstProject.pdb
-D:\G1\G1_Git\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
 D:\G1\G1_Git\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
 D:\G1\G1_Git\FirstProject\obj\Debug\FirstProject.exe
 D:\G1\G1_Git\FirstProject\obj\Debug\FirstProject.pdb

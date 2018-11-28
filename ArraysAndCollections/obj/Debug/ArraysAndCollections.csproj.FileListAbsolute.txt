@@ -13,7 +13,6 @@ C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\ArraysAndCollections\ob
 D:\G1\G1_Git\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe.config
 D:\G1\G1_Git\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe
 D:\G1\G1_Git\ArraysAndCollections\bin\Debug\ArraysAndCollections.pdb
-D:\G1\G1_Git\ArraysAndCollections\obj\Debug\ArraysAndCollections.csprojAssemblyReference.cache
 D:\G1\G1_Git\ArraysAndCollections\obj\Debug\ArraysAndCollections.csproj.CoreCompileInputs.cache
 D:\G1\G1_Git\ArraysAndCollections\obj\Debug\ArraysAndCollections.exe
 D:\G1\G1_Git\ArraysAndCollections\obj\Debug\ArraysAndCollections.pdb

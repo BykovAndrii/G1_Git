@@ -3,3 +3,9 @@ C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\HW\bin\Rele
 C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\HW\bin\Release\HW.pdb
 C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\HW\obj\Release\HW.exe
 C:\Users\qalight\documents\visual studio 2015\Projects\FirstSolution\HW\obj\Release\HW.pdb
+D:\G1\G1_Git\HW\bin\Release\HW.exe.config
+D:\G1\G1_Git\HW\bin\Release\HW.exe
+D:\G1\G1_Git\HW\bin\Release\HW.pdb
+D:\G1\G1_Git\HW\obj\Release\HW.csproj.CoreCompileInputs.cache
+D:\G1\G1_Git\HW\obj\Release\HW.exe
+D:\G1\G1_Git\HW\obj\Release\HW.pdb

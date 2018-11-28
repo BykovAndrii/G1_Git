@@ -14,7 +14,6 @@ C:\Users\andriibykov\Desktop\FirstSolution\FirstSolution\Constructors\obj\Debug\
 D:\G1\G1_Git\Constructors\bin\Debug\Constructors.exe.config
 D:\G1\G1_Git\Constructors\bin\Debug\Constructors.exe
 D:\G1\G1_Git\Constructors\bin\Debug\Constructors.pdb
-D:\G1\G1_Git\Constructors\obj\Debug\Constructors.csprojAssemblyReference.cache
 D:\G1\G1_Git\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
 D:\G1\G1_Git\Constructors\obj\Debug\Constructors.exe
 D:\G1\G1_Git\Constructors\obj\Debug\Constructors.pdb

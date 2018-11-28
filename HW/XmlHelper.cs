@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
 using System.Reflection;
 using System.Xml;
 
@@ -9,7 +10,7 @@ namespace HW
         public static XmlDocument CreateXml(string filePath)
         {
             var pathToFileDir = Assembly.GetExecutingAssembly().CodeBase.Replace("file:///", string.Empty);
-            var pathToFile = Path.Combine(Path.GetDirectoryName(pathToFileDir), filePath);
+            var pathToFile = Path.Combine(Environment.CurrentDirectory, filePath);
             var xmlDoc = new XmlDocument();
             xmlDoc.Load(pathToFile);
             return xmlDoc;
@@ -30,15 +31,9 @@ namespace HW
             return node;
         }
 
-        public static string GetNodeText(string nodeTagName, string filePath = "Data/TestData.xml")
+        public static string GetNodeText(string nodeTagName, string filePath = "Data/XmlTestFile.xml")
         {
             XmlNode node = GetNodeByTagName(nodeTagName, filePath);
-            return node.InnerText;
-        }
-
-        public static string GetNodeText(string nodeTagName, XmlDocument xmlFile)
-        {
-            XmlNode node = GetNodeByTagName(nodeTagName, xmlFile);
             return node.InnerText;
         }
     }
