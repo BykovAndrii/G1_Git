@@ -21,6 +21,8 @@ namespace HW
             Console.WriteLine(nodeText);
               
             Console.ReadKey();
+
+            int a = 8;
         }
     }
 }
